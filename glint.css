@@ -1,0 +1,27 @@
+body{
+    background-image: url(hero-bg.jpg.webp);
+    background-size: cover;
+    color: white;
+}
+.div{
+    display: flex;
+    justify-content: space-between;
+}
+
+main{
+    display: flex;
+    justify-content: space-between;
+}
+.butts{
+    display: flex;
+    margin-left: 150px;
+    gap: 20px;
+}
+.z{
+    background-color: transparent;
+    padding: 20px;
+}
+.z a{
+    color: white;
+    text-decoration: none;
+}

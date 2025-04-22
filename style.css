@@ -1,0 +1,24 @@
+.container{
+    background-color: blue;
+    height: 200px;
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.container1{
+    width: 20px;
+    height: 20px;
+    background-color: white;
+    border: 2px solid red;
+}
+.cont1{
+    display: flex;
+    gap: 10px;
+
+}
+.cont2{
+    display: flex;
+    gap: 10px;
+}
